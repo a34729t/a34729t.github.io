@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Poole
 tagline:          'The Jekyll Butler'
 description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+url:              a34729t.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nicolas Flacco'
+  url:            xyz
 
 paginate:         1
 
@@ -21,9 +21,10 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/a34729t/a34729t.github.io
 
-pages_list:       
-  Feed: '/atom.xml'
+pages_list:
+  About: '/about'     
   Archive: '/archive'
-  About: '/about'
+  Feed: '/atom.xml'
+
