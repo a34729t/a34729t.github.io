@@ -22,3 +22,8 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/poole/poole
+
+pages_list:       
+  Feed: '/atom.xml'
+  Archive: '/archive'
+  About: '/about'
