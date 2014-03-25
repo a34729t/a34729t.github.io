@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
+title:            Nicolas Flacco
+tagline:          ''
+description:      ''
 url:              a34729t.github.io
 
 author:
