@@ -15,7 +15,7 @@ author:
   name:           'Nicolas Flacco'
   url:            xyz
 
-paginate:         1
+paginate:         3
 
 # Custom vars
 version:          1.0.0
