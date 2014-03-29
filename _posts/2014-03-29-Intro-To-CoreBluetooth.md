@@ -44,3 +44,5 @@ More Info:
 
 * [CoreBluetooth Framework Reference](https://developer.apple.com/library/ios/documentation/CoreBluetooth/Reference/CoreBluetooth_Framework/_index.html)
 * [My Github, with Central and Peripheral XCode projects](https://github.com/a34729t)
+
+{% include twitter_plug.html %}
